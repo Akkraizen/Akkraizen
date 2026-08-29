@@ -66,13 +66,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 300.1 kB Used in GitHub's Storage 
  > 
-> 🏆 106 Contributions in the Year 2026
+> 🏆 108 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,21 +83,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-🌆 Daytime                200 commits         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-🌃 Evening                431 commits         ██████████████░░░░░░░░░░░   55.47 % 
-🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+🌞 Morning                51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+🌆 Daytime                200 commits         ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+🌃 Evening                431 commits         ██████████████░░░░░░░░░░░   55.33 % 
+🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Thursday                 91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Friday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Saturday                 116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Sunday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Thursday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Saturday                 116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Sunday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 ```
 
 
@@ -107,16 +107,21 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue                      4 hrs 18 mins       █████████████████░░░░░░░░   66.06 % 
+SCSS                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            6 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bio-remaster             5 hrs 58 mins       ███████████████████████░░   91.64 % 
+linari-bot               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,10 +144,10 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 19:05:09 UTC
+ Last Updated on 29/08/2026 00:54:28 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
