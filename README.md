@@ -62,7 +62,7 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
@@ -72,7 +72,7 @@
 
 > 📦 300.1 kB Used in GitHub's Storage 
  > 
-> 🏆 108 Contributions in the Year 2026
+> 🏆 110 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,21 +83,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-🌆 Daytime                200 commits         ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-🌃 Evening                431 commits         ██████████████░░░░░░░░░░░   55.33 % 
-🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+🌞 Morning                51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+🌆 Daytime                200 commits         ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+🌃 Evening                433 commits         ██████████████░░░░░░░░░░░   55.44 % 
+🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Wednesday                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Thursday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Friday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Saturday                 116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Sunday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Thursday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Friday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Saturday                 118 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Sunday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
 ```
 
 
@@ -107,21 +107,21 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue                      4 hrs 18 mins       █████████████████░░░░░░░░   66.06 % 
-SCSS                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Vue                      10 hrs 2 mins       ████████████████████░░░░░   80.68 % 
+SCSS                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Image (svg)              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 31 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            12 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bio-remaster             5 hrs 58 mins       ███████████████████████░░   91.64 % 
-linari-bot               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+bio-remaster             11 hrs 54 mins      ████████████████████████░   95.62 % 
+linari-bot               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 💻 Operating System: 
-Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 00:54:28 UTC
+ Last Updated on 29/08/2026 19:38:56 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
