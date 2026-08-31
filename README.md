@@ -62,7 +62,7 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
@@ -70,7 +70,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 300.1 kB Used in GitHub's Storage 
+> 📦 300.2 kB Used in GitHub's Storage 
  > 
 > 🏆 110 Contributions in the Year 2026
  > 
@@ -107,21 +107,21 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue                      17 hrs 17 mins      █████████████████████░░░░   82.62 % 
-TypeScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-SCSS                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Image (svg)              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Vue                      22 hrs 11 mins      ████████████████████░░░░░   81.89 % 
+TypeScript               2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+SCSS                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Python                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Image (svg)              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-IntelliJ IDEA            20 hrs 55 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            27 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bio-remaster             20 hrs 15 mins      ████████████████████████░   96.82 % 
-linari-bot               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+bio-remaster             26 hrs 25 mins      ████████████████████████░   97.54 % 
+linari-bot               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Windows                  20 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 19:40:55 UTC
+ Last Updated on 31/08/2026 21:47:52 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
