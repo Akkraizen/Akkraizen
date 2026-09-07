@@ -62,7 +62,7 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C363%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C363%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
@@ -107,21 +107,21 @@ Sunday                   157 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue                      16 hrs 13 mins      ██████████████████░░░░░░░   73.64 % 
-TypeScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Python                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-SCSS                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-PowerShell               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Vue                      11 hrs 20 mins      ██████████████████░░░░░░░   71.42 % 
+Python                   1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+PowerShell               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-IntelliJ IDEA            22 hrs 2 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            15 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bio-remaster             20 hrs 26 mins      ███████████████████████░░   92.75 % 
-sj-backend               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+bio-remaster             14 hrs 17 mins      ██████████████████████░░░   89.94 % 
+sj-backend               1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 
 💻 Operating System: 
-Windows                  22 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 18:57:10 UTC
+ Last Updated on 07/09/2026 20:24:26 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
