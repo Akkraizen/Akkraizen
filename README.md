@@ -107,21 +107,21 @@ Sunday                   157 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue                      7 hrs 37 mins       █████████████████░░░░░░░░   67.15 % 
-Python                   1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-SCSS                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Vue                      5 hrs 25 mins       █████████████████░░░░░░░░   66.18 % 
+Python                   1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+SCSS                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 20 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bio-remaster             9 hrs 45 mins       █████████████████████░░░░   85.92 % 
-sj-backend               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+bio-remaster             6 hrs 35 mins       ████████████████████░░░░░   80.51 % 
+sj-backend               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
 
 💻 Operating System: 
-Windows                  11 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 19:47:20 UTC
+ Last Updated on 09/09/2026 19:38:45 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
