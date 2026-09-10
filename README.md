@@ -70,7 +70,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 301.1 kB Used in GitHub's Storage 
+> 📦 301.2 kB Used in GitHub's Storage 
  > 
 > 🏆 118 Contributions in the Year 2026
  > 
@@ -107,21 +107,21 @@ Sunday                   157 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue                      5 hrs 25 mins       █████████████████░░░░░░░░   66.18 % 
-Python                   1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-SCSS                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Vue                      2 hrs 18 mins       █████████████░░░░░░░░░░░░   52.27 % 
+Python                   1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
+SCSS                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 11 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bio-remaster             6 hrs 35 mins       ████████████████████░░░░░   80.51 % 
-sj-backend               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+bio-remaster             2 hrs 49 mins       ████████████████░░░░░░░░░   63.86 % 
+sj-backend               1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
 
 💻 Operating System: 
-Windows                  8 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 19:38:45 UTC
+ Last Updated on 10/09/2026 19:30:05 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
