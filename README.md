@@ -66,7 +66,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -107,21 +107,21 @@ Sunday                   157 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue                      2 hrs 18 mins       █████████████░░░░░░░░░░░░   52.27 % 
-Python                   1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
-SCSS                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python                   1 hr 13 mins        █████████████████████████   99.29 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 25 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bio-remaster             2 hrs 49 mins       ████████████████░░░░░░░░░   63.86 % 
-sj-backend               1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
+sj-backend               1 hr 13 mins        █████████████████████████   99.29 % 
+bio-remaster             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 19:30:05 UTC
+ Last Updated on 11/09/2026 19:30:14 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
