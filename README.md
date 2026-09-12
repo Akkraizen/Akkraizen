@@ -66,7 +66,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -107,27 +107,46 @@ Sunday                   157 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████████████████   99.29 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   26 mins             ████████████░░░░░░░░░░░░░   49.03 % 
+JSON                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Docker                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Kotlin                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 14 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            53 mins             ████████████████████████░   96.38 % 
+Codex CLI                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🐱‍💻 Projects: 
-sj-backend               1 hr 13 mins        █████████████████████████   99.29 % 
-bio-remaster             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+sj-backend               29 mins             █████████████░░░░░░░░░░░░   53.68 % 
+sj-frontend              19 mins             █████████░░░░░░░░░░░░░░░░   35.72 % 
+Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+bio-remaster             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 mins (9.8%)
+
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+
+🔤 36,048 Input Tokens, 1,459 Output Tokens
+
+💵 $0.69 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 33 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -147,7 +166,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 19:30:14 UTC
+ Last Updated on 12/09/2026 19:02:27 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
