@@ -62,9 +62,9 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C363%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C364%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -107,46 +107,46 @@ Sunday                   157 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   26 mins             ████████████░░░░░░░░░░░░░   49.03 % 
-JSON                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Docker                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Kotlin                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Python                   2 hrs 27 mins       █████████████████░░░░░░░░   68.41 % 
+TOML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-IntelliJ IDEA            53 mins             ████████████████████████░   96.38 % 
-Codex CLI                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+IntelliJ IDEA            3 hrs 25 mins       ████████████████████████░   95.16 % 
+Codex CLI                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🐱‍💻 Projects: 
-sj-backend               29 mins             █████████████░░░░░░░░░░░░   53.68 % 
-sj-frontend              19 mins             █████████░░░░░░░░░░░░░░░░   35.72 % 
-Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-bio-remaster             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+sj-backend               2 hrs 51 mins       ████████████████████░░░░░   79.47 % 
+sj-frontend              38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+bio-remaster             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (9.8%)
+⏱ AI Coding Time: 2 hrs 14 mins (62.27%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 85 lines written by AI, 40 lines written by hand (68.0% AI-written)
 
-🔤 36,048 Input Tokens, 1,459 Output Tokens
+🔤 52,443 Input Tokens, 2,162 Output Tokens
 
-💵 $0.69 Estimated AI Cost This Week
+💵 $0.97 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 5 AI Sessions, 59 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      85 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 33 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 68.0% of written lines came from AI
+📝 Concise Prompter — average 30 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -166,7 +166,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 19:02:27 UTC
+ Last Updated on 13/09/2026 19:14:57 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
