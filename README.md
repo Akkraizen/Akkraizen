@@ -62,9 +62,9 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C372%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -107,46 +107,46 @@ Sunday                   157 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   7 hrs 22 mins       ████████████████████░░░░░   81.35 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Python                   9 hrs 2 mins        ███████████████████░░░░░░   76.27 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+.env file                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 14 mins       ███████████████████████░░   90.85 % 
-Codex CLI                49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+IntelliJ IDEA            10 hrs 53 mins      ███████████████████████░░   91.87 % 
+Codex CLI                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🐱‍💻 Projects: 
-sj-backend               8 hrs 20 mins       ███████████████████████░░   91.90 % 
-sj-frontend              38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+sj-backend               11 hrs 7 mins       ███████████████████████░░   93.80 % 
+sj-frontend              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Windows                  9 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  11 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 46 mins (63.7%)
+⏱ AI Coding Time: 6 hrs 45 mins (56.97%)
 
-✍️ 626 lines written by AI, 367 lines written by hand (63.04% AI-written)
+✍️ 730 lines written by AI, 374 lines written by hand (66.12% AI-written)
 
-🔤 460,400 Input Tokens, 42,755 Output Tokens
+🔤 576,738 Input Tokens, 52,367 Output Tokens
 
-💵 $12.37 Estimated AI Cost This Week
+💵 $15.97 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 116 AI Prompts
+🧠 16 AI Sessions, 129 AI Prompts
 
-GPT                      626 lines           █████████████████████████   100.00 % 
+GPT                      730 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.04% of written lines came from AI
-📝 Concise Prompter — average 369 characters per prompt
+🤖 AI-Driven — 66.12% of written lines came from AI
+📝 Concise Prompter — average 383 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 39.92% of changed lines were hand-edited
+🚀 High AI Trust — 41.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -166,7 +166,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 20:05:03 UTC
+ Last Updated on 16/09/2026 19:53:36 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
