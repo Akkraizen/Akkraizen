@@ -62,17 +62,17 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C382%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 301.3 kB Used in GitHub's Storage 
  > 
-> 🏆 118 Contributions in the Year 2026
+> 🏆 119 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,21 +83,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-🌆 Daytime                223 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-🌃 Evening                445 commits         █████████████░░░░░░░░░░░░   52.85 % 
-🌙 Night                  122 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+🌞 Morning                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+🌆 Daytime                224 commits         ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+🌃 Evening                445 commits         █████████████░░░░░░░░░░░░   52.79 % 
+🌙 Night                  122 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Tuesday                  128 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Wednesday                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Friday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Saturday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Sunday                   157 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Monday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Tuesday                  128 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Wednesday                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Friday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Sunday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 ```
 
 
@@ -107,46 +107,46 @@ Sunday                   157 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   15 hrs 57 mins      █████████████████████░░░░   84.76 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-.env file                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Python                   16 hrs 41 mins      █████████████████████░░░░   82.55 % 
+Docker                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+.env file                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 46 mins      ████████████████████████░   94.41 % 
-Codex CLI                1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+IntelliJ IDEA            19 hrs 18 mins      ████████████████████████░   95.49 % 
+Codex CLI                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🐱‍💻 Projects: 
-sj-backend               18 hrs 19 mins      ████████████████████████░   97.32 % 
-sj-frontend              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-bio-remaster             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+sj-backend               20 hrs 2 mins       █████████████████████████   99.05 % 
+bio-remaster             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  18 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 42 mins (51.6%)
+⏱ AI Coding Time: 7 hrs 39 mins (37.83%)
 
-✍️ 777 lines written by AI, 457 lines written by hand (62.97% AI-written)
+✍️ 692 lines written by AI, 1,051 lines written by hand (39.7% AI-written)
 
-🔤 686,488 Input Tokens, 60,803 Output Tokens
+🔤 670,093 Input Tokens, 60,100 Output Tokens
 
-💵 $17.98 Estimated AI Cost This Week
+💵 $17.70 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 188 AI Prompts
+🧠 19 AI Sessions, 135 AI Prompts
 
-GPT                      780 lines           █████████████████████████   100.00 % 
+GPT                      695 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.97% of written lines came from AI
-📝 Concise Prompter — average 330 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 46.1% of changed lines were hand-edited
+⚖️ Balanced with AI — 39.7% of written lines came from AI
+📝 Concise Prompter — average 469 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 64.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -166,7 +166,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 19:15:10 UTC
+ Last Updated on 20/09/2026 19:18:50 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
