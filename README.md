@@ -62,7 +62,7 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C395%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%201%20min-blue?style=flat)
 
@@ -70,7 +70,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 301.3 kB Used in GitHub's Storage 
+> 📦 301.4 kB Used in GitHub's Storage 
  > 
 > 🏆 126 Contributions in the Year 2026
  > 
@@ -107,49 +107,49 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   14 hrs 12 mins      ████████████████████░░░░░   78.13 % 
-Vue                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Docker                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Rust                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Python                   12 hrs 26 mins      ███████████████████░░░░░░   77.35 % 
+Vue                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Rust                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 41 mins      ████████████████████████░   97.29 % 
-Codex CLI                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+IntelliJ IDEA            15 hrs 35 mins      ████████████████████████░   96.93 % 
+Codex CLI                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-sj-backend               15 hrs 56 mins      ██████████████████████░░░   87.69 % 
-bio-remaster             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-korvax-va                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-linari-bot               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Unknown Project          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+sj-backend               13 hrs 5 mins       ████████████████████░░░░░   81.39 % 
+bio-remaster             1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+korvax-va                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+linari-bot               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Unknown Project          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Operating System: 
-Windows                  18 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 22 mins (7.53%)
+⏱ AI Coding Time: 1 hr 16 mins (7.95%)
 
-✍️ 710 lines written by AI, 1,308 lines written by hand (35.18% AI-written)
+✍️ 710 lines written by AI, 888 lines written by hand (44.43% AI-written)
 
 🔤 377,499 Input Tokens, 49,010 Output Tokens
 
 💵 $11.05 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 41 AI Prompts
+🧠 10 AI Sessions, 38 AI Prompts
 
 GPT                      710 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.18% of written lines came from AI
-📄 Detailed Prompter — average 796 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 74.44% of changed lines were hand-edited
+⚖️ Balanced with AI — 44.43% of written lines came from AI
+📄 Detailed Prompter — average 779 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 72.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -169,7 +169,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 19:36:44 UTC
+ Last Updated on 27/09/2026 19:59:52 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
