@@ -62,7 +62,7 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%201%20min-blue?style=flat)
 
@@ -107,49 +107,51 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   12 hrs 26 mins      ███████████████████░░░░░░   77.35 % 
-Vue                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Rust                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Python                   11 hrs 57 mins      ███████████████████░░░░░░   75.19 % 
+Vue                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Rust                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 hrs 35 mins      ████████████████████████░   96.93 % 
-Codex CLI                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+IntelliJ IDEA            14 hrs 18 mins      ██████████████████████░░░   90.00 % 
+Codex Vscode             1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Codex CLI                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-sj-backend               13 hrs 5 mins       ████████████████████░░░░░   81.39 % 
-bio-remaster             1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-korvax-va                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-linari-bot               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Unknown Project          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+sj-backend               13 hrs 15 mins      █████████████████████░░░░   83.30 % 
+bio-remaster             1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+korvax-va                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+linari-bot               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+itip-labs                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Windows                  16 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (7.95%)
+⏱ AI Coding Time: 2 hrs 51 mins (17.98%)
 
-✍️ 710 lines written by AI, 888 lines written by hand (44.43% AI-written)
+✍️ 1,602 lines written by AI, 868 lines written by hand (64.86% AI-written)
 
-🔤 377,499 Input Tokens, 49,010 Output Tokens
+🔤 963,150 Input Tokens, 101,285 Output Tokens
 
-💵 $11.05 Estimated AI Cost This Week
+💵 $33.20 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 38 AI Prompts
+🧠 16 AI Sessions, 49 AI Prompts
 
-GPT                      710 lines           █████████████████████████   100.00 % 
+GPT                      1,630 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.43% of written lines came from AI
-📄 Detailed Prompter — average 779 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 72.85% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.86% of written lines came from AI
+📄 Detailed Prompter — average 852 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 53.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -169,7 +171,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 19:59:52 UTC
+ Last Updated on 28/09/2026 22:28:05 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
