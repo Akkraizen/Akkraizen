@@ -107,49 +107,48 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       █████████████░░░░░░░░░░░░   52.36 % 
-Markdown                 1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-TypeScript               1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-HTML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Python                   2 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.44 % 
+TypeScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 58 mins       ███████████████░░░░░░░░░░   60.76 % 
-Codex Vscode             2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.90 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+IntelliJ IDEA            4 hrs 4 mins        █████████████████░░░░░░░░   68.96 % 
+Codex Vscode             1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   31.04 % 
 
 🐱‍💻 Projects: 
-sj-backend               4 hrs 35 mins       ██████████████████░░░░░░░   70.13 % 
-sj-frontend              1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-akkraizen-hub            43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-cenno                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-bio-remaster             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+sj-backend               3 hrs 57 mins       █████████████████░░░░░░░░   66.86 % 
+sj-frontend              1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+akkraizen-hub            45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+cenno                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+bio-remaster             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (47.14%)
+⏱ AI Coding Time: 2 hrs 13 mins (37.63%)
 
-✍️ 3,499 lines written by AI, 26 lines written by hand (99.26% AI-written)
+✍️ 3,622 lines written by AI, 62 lines written by hand (98.32% AI-written)
 
-🔤 761,373 Input Tokens, 156,997 Output Tokens
+🔤 820,301 Input Tokens, 159,677 Output Tokens
 
-💵 $68.69 Estimated AI Cost This Week
+💵 $41.89 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 28 AI Prompts
+🧠 5 AI Sessions, 22 AI Prompts
 
-GPT                      3,503 lines         █████████████████████████   100.00 % 
+GPT                      3,626 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.26% of written lines came from AI
-📚 Verbose Prompter — average 9,775 characters per prompt
+🤖 AI-Driven — 98.32% of written lines came from AI
+📚 Verbose Prompter — average 10,173 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.41% of changed lines were hand-edited
+🚀 High AI Trust — 2.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -169,7 +168,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 20:51:29 UTC
+ Last Updated on 12/10/2026 23:33:32 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
