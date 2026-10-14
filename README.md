@@ -62,7 +62,7 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C440%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2034%20mins-blue?style=flat)
 
@@ -107,48 +107,48 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   4 hrs 29 mins       ███████████████░░░░░░░░░░   59.47 % 
-TypeScript               1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Python                   5 hrs 24 mins       ████████████████░░░░░░░░░   65.12 % 
+TypeScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 1 min         ████████████████████░░░░░   79.76 % 
-Codex Vscode             1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+IntelliJ IDEA            7 hrs 11 mins       ██████████████████████░░░   86.68 % 
+Codex Vscode             1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 
 🐱‍💻 Projects: 
-sj-backend               2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.71 % 
-ReverseRewrite           2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
-sj-frontend              1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-akkraizen-hub            45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-cenno                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+ReverseRewrite           3 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.95 % 
+sj-backend               2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+sj-frontend              1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+akkraizen-hub            45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+cenno                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 41 mins (22.43%)
+⏱ AI Coding Time: 1 hr 14 mins (15.06%)
 
-✍️ 2,050 lines written by AI, 237 lines written by hand (89.64% AI-written)
+✍️ 1,296 lines written by AI, 326 lines written by hand (79.9% AI-written)
 
-🔤 594,057 Input Tokens, 104,647 Output Tokens
+🔤 430,632 Input Tokens, 71,439 Output Tokens
 
-💵 $31.47 Estimated AI Cost This Week
+💵 $22.58 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 3 AI Sessions, 16 AI Prompts
 
-GPT                      2,051 lines         █████████████████████████   100.00 % 
+GPT                      1,296 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.64% of written lines came from AI
-📄 Detailed Prompter — average 795 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.31% of changed lines were hand-edited
+🤖 AI-Driven — 79.9% of written lines came from AI
+📄 Detailed Prompter — average 654 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 23.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -168,7 +168,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 21:47:04 UTC
+ Last Updated on 14/10/2026 20:31:23 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
