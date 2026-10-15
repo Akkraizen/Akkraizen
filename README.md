@@ -70,7 +70,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 301.6 kB Used in GitHub's Storage 
+> 📦 301.7 kB Used in GitHub's Storage 
  > 
 > 🏆 131 Contributions in the Year 2026
  > 
@@ -107,48 +107,50 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   5 hrs 24 mins       ████████████████░░░░░░░░░   65.12 % 
-TypeScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Python                   7 hrs 59 mins       █████████████████░░░░░░░░   69.15 % 
+TypeScript               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 11 mins       ██████████████████████░░░   86.68 % 
-Codex Vscode             1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+IntelliJ IDEA            9 hrs 18 mins       ████████████████████░░░░░   80.56 % 
+Codex Vscode             1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Claude Code              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🐱‍💻 Projects: 
-ReverseRewrite           3 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.95 % 
-sj-backend               2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-sj-frontend              1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-akkraizen-hub            45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-cenno                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+ReverseRewrite           7 hrs 59 mins       █████████████████░░░░░░░░   69.26 % 
+sj-backend               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+sj-frontend              1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+akkraizen-hub            43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+cenno                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  8 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (15.06%)
+⏱ AI Coding Time: 3 hrs 1 min (26.21%)
 
-✍️ 1,296 lines written by AI, 326 lines written by hand (79.9% AI-written)
+✍️ 2,286 lines written by AI, 425 lines written by hand (84.32% AI-written)
 
-🔤 430,632 Input Tokens, 71,439 Output Tokens
+🔤 903,823 Input Tokens, 219,298 Output Tokens
 
-💵 $22.58 Estimated AI Cost This Week
+💵 $30.37 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
+🧠 5 AI Sessions, 39 AI Prompts
 
-GPT                      1,296 lines         █████████████████████████   100.00 % 
+Opus                     2,081 lines         ███████████████████░░░░░░   77.33 % 
+GPT                      610 lines           ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.9% of written lines came from AI
-📄 Detailed Prompter — average 654 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 23.63% of changed lines were hand-edited
+🤖 AI-Driven — 84.32% of written lines came from AI
+📝 Concise Prompter — average 276 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 20.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -168,7 +170,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 20:31:23 UTC
+ Last Updated on 15/10/2026 20:13:54 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
