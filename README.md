@@ -62,21 +62,21 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C444%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 301.7 kB Used in GitHub's Storage 
+> 📦 301.8 kB Used in GitHub's Storage 
  > 
-> 🏆 135 Contributions in the Year 2026
+> 🏆 136 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
@@ -107,50 +107,50 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   10 hrs 4 mins       ████████████████░░░░░░░░░   62.28 % 
-TypeScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Vue                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Python                   12 hrs 2 mins       ████████████████░░░░░░░░░   64.90 % 
+TypeScript               1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Vue                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 29 mins      ████████████████░░░░░░░░░   64.80 % 
-Claude Code              4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-Codex Vscode             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+IntelliJ IDEA            11 hrs 16 mins      ███████████████░░░░░░░░░░   60.77 % 
+Claude Code              5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
+Codex Vscode             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 🐱‍💻 Projects: 
-ReverseRewrite           8 hrs 27 mins       █████████████░░░░░░░░░░░░   52.23 % 
-sj-backend               3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-bio-remaster             2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-sj-frontend              1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-akkraizen-hub            35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+ReverseRewrite           10 hrs 5 mins       ██████████████░░░░░░░░░░░   54.45 % 
+sj-backend               3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+bio-remaster             3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+akkraizen-hub            35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+sj-frontend              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Windows                  16 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 31 mins (46.51%)
+⏱ AI Coding Time: 9 hrs 26 mins (50.88%)
 
-✍️ 19,360 lines written by AI, 959 lines written by hand (95.28% AI-written)
+✍️ 21,502 lines written by AI, 1,204 lines written by hand (94.7% AI-written)
 
-🔤 3,000,219 Input Tokens, 955,917 Output Tokens
+🔤 3,505,223 Input Tokens, 1,181,680 Output Tokens
 
-💵 $83.73 Estimated AI Cost This Week
+💵 $101.15 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 75 AI Prompts
+🧠 21 AI Sessions, 109 AI Prompts
 
-Opus                     19,241 lines        ████████████████████████░   96.93 % 
-GPT                      610 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Opus                     21,389 lines        ████████████████████████░   97.23 % 
+GPT                      610 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.28% of written lines came from AI
-📝 Concise Prompter — average 392 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 6.73% of changed lines were hand-edited
+🤖 AI-Driven — 94.7% of written lines came from AI
+📝 Concise Prompter — average 463 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 7.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -170,7 +170,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 19:51:13 UTC
+ Last Updated on 17/10/2026 19:05:40 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
