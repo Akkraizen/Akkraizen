@@ -62,15 +62,15 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 301.8 kB Used in GitHub's Storage 
+> 📦 301.9 kB Used in GitHub's Storage 
  > 
 > 🏆 137 Contributions in the Year 2026
  > 
@@ -107,50 +107,49 @@ Sunday                   159 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   15 hrs 31 mins      █████████████████░░░░░░░░   68.41 % 
-TypeScript               1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Vue                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Python                   16 hrs 59 mins      █████████████████░░░░░░░░   69.52 % 
+Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+TypeScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Vue                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+TOML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 hrs 4 mins       ███████████████░░░░░░░░░░   61.99 % 
-Claude Code              7 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.45 % 
-Codex Vscode             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+IntelliJ IDEA            14 hrs 54 mins      ███████████████░░░░░░░░░░   61.01 % 
+Claude Code              8 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+Codex Vscode             59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🐱‍💻 Projects: 
-ReverseRewrite           13 hrs 19 mins      ███████████████░░░░░░░░░░   58.68 % 
-sj-backend               3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-bio-remaster             3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Nefor                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-akkraizen-hub            35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+ReverseRewrite           14 hrs 51 mins      ███████████████░░░░░░░░░░   60.79 % 
+sj-backend               4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+bio-remaster             3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Nefor                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+akkraizen-hub            35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-Windows                  22 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 33 mins (50.94%)
+⏱ AI Coding Time: 12 hrs 52 mins (52.7%)
 
-✍️ 25,154 lines written by AI, 1,550 lines written by hand (94.2% AI-written)
+✍️ 24,772 lines written by AI, 1,663 lines written by hand (93.71% AI-written)
 
-🔤 4,124,870 Input Tokens, 1,400,200 Output Tokens
+🔤 4,564,017 Input Tokens, 1,513,192 Output Tokens
 
-💵 $112.09 Estimated AI Cost This Week
+💵 $114.71 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 126 AI Prompts
+🧠 30 AI Sessions, 142 AI Prompts
 
-Opus                     25,047 lines        ████████████████████████░   97.62 % 
-GPT                      610 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     25,262 lines        █████████████████████████   99.93 % 
+GPT                      18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.2% of written lines came from AI
-📝 Concise Prompter — average 437 characters per prompt
+🤖 AI-Driven — 93.71% of written lines came from AI
+📄 Detailed Prompter — average 576 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.92% of changed lines were hand-edited
+🚀 High AI Trust — 8.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -170,7 +169,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 19:18:37 UTC
+ Last Updated on 19/10/2026 21:23:46 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
