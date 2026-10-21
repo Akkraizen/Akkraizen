@@ -1,0 +1,502 @@
+{
+ "key": "27cd65ee",
+ "stars": 31,
+ "contributions": 234,
+ "repos": 34,
+ "followers": 20,
+ "languages": [
+  [
+   "Kotlin",
+   494137
+  ],
+  [
+   "Vue",
+   188672
+  ],
+  [
+   "Python",
+   174827
+  ],
+  [
+   "TypeScript",
+   116769
+  ],
+  [
+   "C++",
+   24680
+  ],
+  [
+   "TSQL",
+   20284
+  ],
+  [
+   "CMake",
+   19705
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 8
+ },
+ "pins": [
+  {
+   "name": "Hisoka",
+   "url": "https://github.com/Akkraizen/Hisoka",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "bio-remaster",
+   "url": "https://github.com/Akkraizen/bio-remaster",
+   "text": "My own bio website",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "cenno",
+   "url": "https://github.com/Akkraizen/cenno",
+   "text": "Backend for Akraizen Hub",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "ReverseRewrite",
+   "url": "https://github.com/Akkraizen/ReverseRewrite",
+   "text": "The rewrited version of my first programm - Bot with name Reverse, which made for my own discord server.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "AKHS",
+   "url": "https://github.com/Akkraizen/AKHS",
+   "text": "",
+   "fork": false,
+   "stars": 9,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "mircord.kt",
+   "url": "https://github.com/Akkraizen/mircord.kt",
+   "text": "The wrapper of Mircord API",
+   "fork": false,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": [
+    "mircord"
+   ]
+  },
+  {
+   "name": "Hisoka",
+   "url": "https://github.com/Akkraizen/Hisoka",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "k-chat",
+   "url": "https://github.com/Akkraizen/k-chat",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "fcord.kt",
+   "url": "https://github.com/Akkraizen/fcord.kt",
+   "text": "Implementation of Fcord API",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": [
+    "fcord"
+   ]
+  },
+  {
+   "name": "Devblog-On-Classic-Code",
+   "url": "https://github.com/Akkraizen/Devblog-On-Classic-Code",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Catalyst-Project",
+   "url": "https://github.com/Akkraizen/Catalyst-Project",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "bio",
+   "url": "https://github.com/Akkraizen/bio",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Akkraizen",
+   "url": "https://github.com/Akkraizen/Akkraizen",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "wavedot-sentinel",
+   "url": "https://github.com/Akkraizen/wavedot-sentinel",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "wavedot-server",
+   "url": "https://github.com/Akkraizen/wavedot-server",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "wavedot-ui",
+   "url": "https://github.com/Akkraizen/wavedot-ui",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "stahl-geist",
+   "url": "https://github.com/Akkraizen/stahl-geist",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Card-Bot",
+   "url": "https://github.com/Akkraizen/Card-Bot",
+   "text": "Simple discord bot",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Nefor",
+   "url": "https://github.com/Akkraizen/Nefor",
+   "text": "Telegram bot for Neformal Science community",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "cenno",
+   "url": "https://github.com/Akkraizen/cenno",
+   "text": "Backend for Akraizen Hub",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "vio",
+   "url": "https://github.com/Akkraizen/vio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "linari-bot",
+   "url": "https://github.com/Akkraizen/linari-bot",
+   "text": "Telegram bot for Linari community",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "bot",
+    "python",
+    "telegram"
+   ]
+  },
+  {
+   "name": "aleyyy-cos-bot",
+   "url": "https://github.com/Akkraizen/aleyyy-cos-bot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Projekt-Mastodont",
+   "url": "https://github.com/Akkraizen/Projekt-Mastodont",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "stahl-haut",
+   "url": "https://github.com/Akkraizen/stahl-haut",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "zenit-va",
+   "url": "https://github.com/Akkraizen/zenit-va",
+   "text": "Simple Voice Assistant, written on Python",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "leetcode-rs",
+   "url": "https://github.com/Akkraizen/leetcode-rs",
+   "text": "My owned leetcode problems solves, written on Rust.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "overhelloworld",
+   "url": "https://github.com/Akkraizen/overhelloworld",
+   "text": "Самый сложный Hello World!",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "knote",
+   "url": "https://github.com/Akkraizen/knote",
+   "text": "Knote — My notes app for personal use.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "wavedot-landing",
+   "url": "https://github.com/Akkraizen/wavedot-landing",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "kaid-utils",
+   "url": "https://github.com/Akkraizen/kaid-utils",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "wavedot-localization",
+   "url": "https://github.com/Akkraizen/wavedot-localization",
+   "text": "Repository that contains localized strings",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "k-ls",
+   "url": "https://github.com/Akkraizen/k-ls",
+   "text": "Simple link shortener",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "BinaryBaran",
+   "url": "https://github.com/Akkraizen/BinaryBaran",
+   "text": "Telegram bot for NuclearMyraBey and kiNgchev community",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "bot",
+    "gradle",
+    "spring-boot",
+    "telegram",
+    "telegram-bot"
+   ]
+  },
+  {
+   "name": "hisoka-translations",
+   "url": "https://github.com/Akkraizen/hisoka-translations",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "bio-remaster",
+   "url": "https://github.com/Akkraizen/bio-remaster",
+   "text": "My own bio website",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "ReverseRewrite",
+   "url": "https://github.com/Akkraizen/ReverseRewrite",
+   "text": "The rewrited version of my first programm - Bot with name Reverse, which made for my own discord server.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "github-readme-stats",
+   "url": "https://github.com/Akkraizen/github-readme-stats",
+   "text": ":zap: Dynamically generated stats for your github readmes",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
