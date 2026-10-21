@@ -1,178 +1,23 @@
-<h1 style="text-align: center">Привет мир!</h1>
+<div align="center">
 
-<img src="img/banner.png" alt="kingchev hisoka banner" style="width: 100%; border-radius: 5px">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=2500&pause=1000&color=FFFFFF&background=41414100&center=true&multiline=true&repeat=false&width=1000&height=100&lines=fun+main()+%7B+++++println(%22Hello+world%22)+%7D" alt="Typing SVG" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Akkraizen"></picture>
 
-## Познакомимся?)
-Меня зовут Игорь, я программист из России.
-Занимаюсь программированием чуть больше 3-х лет, посвящаю этому делу все свободное время.
-Люблю шахматы и котиков :3
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="21.572%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://akkraizen.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="22.179%" alt="web"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="21.572%" alt=""></picture>
 
-Вы можете сделать заказ в моем [телеграмм канале](https://t.me/kingchev_works)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-## Навыки и знания
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiNgchev/kiNgchev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiNgchev/kiNgchev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kiNgchev/kiNgchev/output/github-contribution-grid-snake.svg">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-### Языки: 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) \
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+<a href="https://github.com/Akkraizen/Hisoka"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hisoka-dark.svg"><img src="assets/project-hisoka-light.svg" width="49%" alt="Hisoka"></picture></a>&nbsp;<a href="https://github.com/Akkraizen/ReverseRewrite"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-reverserewrite-dark.svg"><img src="assets/project-reverserewrite-light.svg" width="49%" alt="ReverseRewrite"></picture></a>
 
-### Фреймворки: 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+<a href="https://github.com/Akkraizen/cenno"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-cenno-dark.svg"><img src="assets/project-cenno-light.svg" width="49%" alt="cenno"></picture></a>&nbsp;<a href="https://github.com/Akkraizen/bio-remaster"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bio-remaster-dark.svg"><img src="assets/project-bio-remaster-light.svg" width="49%" alt="bio-remaster"></picture></a>
 
-### Сервисы: 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) \
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-### IDE:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-## Мои контакты:
-- Discord: [_kingchev](https://discord.com/users/743878110747033691)
-- Telegram: [kiNgchev Hub](https://t.me/k1ngchev), [kiNgchev works](https://t.me/kingchev_works)
-- Twitch: [k1ngchev](https://www.twitch.tv/k1ngchev)
-- Youtube: [KiNgchev Hub](https://www.youtube.com/channel/UC1-4OolMyPyZPJguuztT87Q)
-- X: [kiNgchev](https://x.com/TheKiNgchev)
-- Bio: [Website](https://kingchev.net/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="26.058%" alt=""></picture><a href="https://www.donationalerts.com/r/kingchev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="21.942%" alt="Donate me"></picture></a><a href="https://github.com/Akkraizen?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="25.939%" alt="All repositories"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="26.058%" alt=""></picture>
 
-## Статистика
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C461%20hrs%2044%20mins-blue?style=flat)
+<a href="https://metawka.github.io/expressive-profile/?from=Akkraizen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2037%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 301.9 kB Used in GitHub's Storage 
- > 
-> 🏆 137 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-🌆 Daytime                230 commits         ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-🌃 Evening                448 commits         █████████████░░░░░░░░░░░░   52.09 % 
-🌙 Night                  130 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Tuesday                  127 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Wednesday                123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Friday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Saturday                 132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Sunday                   159 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Python                   15 hrs 30 mins      █████████████████░░░░░░░░   68.01 % 
-Markdown                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-TypeScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Vue                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-TOML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-
-🔥 Editors: 
-IntelliJ IDEA            12 hrs 6 mins       █████████████░░░░░░░░░░░░   53.10 % 
-Claude Code              9 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.73 % 
-Codex Vscode             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-
-🐱‍💻 Projects: 
-ReverseRewrite           12 hrs 22 mins      ██████████████░░░░░░░░░░░   54.26 % 
-sj-backend               5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-bio-remaster             3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Nefor                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-akkraizen-hub            35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-
-💻 Operating System: 
-Windows                  22 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 3 mins (61.61%)
-
-✍️ 27,987 lines written by AI, 1,477 lines written by hand (94.99% AI-written)
-
-🔤 5,710,447 Input Tokens, 1,814,791 Output Tokens
-
-💵 $142.34 Estimated AI Cost This Week
-
-🧠 32 AI Sessions, 153 AI Prompts
-
-Opus                     28,510 lines        █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.99% of written lines came from AI
-📄 Detailed Prompter — average 1,114 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.24% of changed lines were hand-edited
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   23 repos            ██████████░░░░░░░░░░░░░░░   39.66 % 
-Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Akkraizen/Akkraizen/main/assets/bar_graph.png)
-
-
- Last Updated on 20/10/2026 20:20:45 UTC
-<!--END_SECTION:waka-->
-
-## Donate
-<a align="center" href=https://www.donationalerts.com/r/kingchev>
-    <img src="./img/donationplease.png" width="132" height="150,8">
-</a> 
+</div>
