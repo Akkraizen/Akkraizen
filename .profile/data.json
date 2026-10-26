@@ -1,8 +1,8 @@
 {
- "key": "d91b6fee",
+ "key": "2f4ee95c",
  "stars": 31,
- "contributions": 250,
- "repos": 35,
+ "contributions": 255,
+ "repos": 36,
  "followers": 21,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "Vue",
-   188672
+   234988
   ],
   [
    "Python",
@@ -19,7 +19,7 @@
   ],
   [
    "TypeScript",
-   116769
+   147816
   ],
   [
    "C++",
@@ -111,12 +111,12 @@
   ],
   [
    {
-    "c": 11,
+    "c": 13,
     "day": 25,
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 26,
     "today": true
    },
@@ -128,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 8
  },
  "pins": [
@@ -298,6 +298,15 @@
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "berill.space",
+   "url": "https://github.com/Akkraizen/berill.space",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
    "topics": []
   },
   {
