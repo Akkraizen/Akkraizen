@@ -1,7 +1,7 @@
 {
- "key": "d5edb270",
+ "key": "adef7ec",
  "stars": 31,
- "contributions": 289,
+ "contributions": 275,
  "repos": 36,
  "followers": 21,
  "languages": [
@@ -113,9 +113,13 @@
    {
     "c": 9,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
