@@ -1,13 +1,13 @@
 {
- "key": "adef7ec",
+ "key": "5e2ce2f0",
  "stars": 31,
- "contributions": 275,
- "repos": 36,
+ "contributions": 295,
+ "repos": 37,
  "followers": 21,
  "languages": [
   [
    "Kotlin",
-   2607295
+   2769072
   ],
   [
    "Vue",
@@ -111,12 +111,12 @@
   ],
   [
    {
-    "c": 9,
+    "c": 28,
     "day": 1,
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 2,
     "today": true
    },
@@ -128,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 8
  },
  "pins": [
@@ -298,6 +298,15 @@
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "nixos-config",
+   "url": "https://github.com/Akkraizen/nixos-config",
+   "text": "My own nixos configuration",
+   "fork": false,
+   "stars": 0,
+   "language": null,
    "topics": []
   },
   {
