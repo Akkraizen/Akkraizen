@@ -1,13 +1,13 @@
 {
- "key": "7302ae0a",
+ "key": "4508d2d2",
  "stars": 31,
- "contributions": 300,
- "repos": 37,
+ "contributions": 303,
+ "repos": 38,
  "followers": 21,
  "languages": [
   [
    "Kotlin",
-   3226528
+   3613900
   ],
   [
    "Vue",
@@ -131,11 +131,15 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 4,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
@@ -313,12 +317,21 @@
    "topics": []
   },
   {
+   "name": "Wavedot",
+   "url": "https://github.com/Akkraizen/Wavedot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "nixos-config",
    "url": "https://github.com/Akkraizen/nixos-config",
    "text": "My own nixos configuration",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "Nix",
    "topics": []
   },
   {
