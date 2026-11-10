@@ -1,5 +1,5 @@
 {
- "key": "453609ab",
+ "key": "fb3077d5",
  "stars": 31,
  "contributions": 304,
  "repos": 38,
@@ -118,9 +118,13 @@
    {
     "c": 9,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
