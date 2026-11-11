@@ -1,5 +1,5 @@
 {
- "key": "fb3077d5",
+ "key": "60bf0676",
  "stars": 31,
  "contributions": 304,
  "repos": 38,
@@ -123,16 +123,20 @@
    {
     "c": 0,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 8
  },
  "pins": [
