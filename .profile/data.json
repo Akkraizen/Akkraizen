@@ -1,13 +1,13 @@
 {
- "key": "86e5e670",
+ "key": "e34249f1",
  "stars": 31,
- "contributions": 309,
+ "contributions": 326,
  "repos": 39,
  "followers": 20,
  "languages": [
   [
    "Kotlin",
-   3927370
+   4089733
   ],
   [
    "Vue",
@@ -131,11 +131,15 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 19,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
