@@ -1,7 +1,7 @@
 {
- "key": "e34249f1",
+ "key": "60ff6ab",
  "stars": 31,
- "contributions": 326,
+ "contributions": 327,
  "repos": 39,
  "followers": 20,
  "languages": [
@@ -14,12 +14,12 @@
    252006
   ],
   [
-   "Python",
-   183544
+   "TypeScript",
+   186332
   ],
   [
-   "TypeScript",
-   182511
+   "Python",
+   183544
   ],
   [
    "C++",
@@ -138,13 +138,17 @@
    {
     "c": 0,
     "day": 13,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 1,
+    "day": 14,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 1,
   "longest": 8
  },
  "pins": [
